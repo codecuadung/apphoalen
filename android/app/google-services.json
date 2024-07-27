@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415535833463",
+    "project_id": "hoalen-6081b",
+    "storage_bucket": "hoalen-6081b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415535833463:android:b95ef0838e69656a9c0172",
+        "android_client_info": {
+          "package_name": "com.duanhoalen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415535833463-mp0i31k0q975tdtj06n0nhfc2eacpd9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duanhoalen",
+            "certificate_hash": "f7d0b78c10ec35dd94150cd3559b8505064e1e41"
+          }
+        },
+        {
+          "client_id": "415535833463-46d7f9997050m9bq7j91tjad4lau5s2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4oqJjEimz1yT9h-wZINSyyRe0DUZC9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415535833463-46d7f9997050m9bq7j91tjad4lau5s2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
